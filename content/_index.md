@@ -1,8 +1,8 @@
 ---
 kind: home
-title: Coming to your living room this July!
-keywords: ApacheCon, ApacheAsiaCon, ApacheAsiaCon2022
+title: Community Over Code - The ASF Conference Asia 2023 will be hold in Beijing from this Augest 18 to 20！
+keywords: CommunityOverCodeAsia, CommunityOverCode, ApacheCon, ApacheAsiaCon, ApacheConAsia2023
 ---
 Join us from the comfort of your own home for three days of Apache project content across dozens of categories, from Big Data to Fintech to Search to Tomcat and more.
 
-The [Registration](./register.html) is open now!
+[Call for Presentations](./cfp.html) now!
